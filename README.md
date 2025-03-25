@@ -1,4 +1,4 @@
-# Auth Main Project
+# React Web-App
 
 This repository contains a full-stack authentication system built using **Node.js, Express.js, MongoDB, and React**.
 
